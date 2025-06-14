@@ -1,5 +1,0 @@
-[0mFinding K4A SDK binaries[0m
-[0m!!! Body Tracking SDK not found: body tracking features will not be available !!![0m
-[0mK4A Libs: k4a::k4a;k4a::k4arecord[0m
-[0mK4A DLLs: /usr/lib/x86_64-linux-gnu/libk4a.so.1.4.1;/usr/lib/x86_64-linux-gnu/libk4arecord.so.1.4.1[0m
-[0mK4A Install Needed: FALSE[0m

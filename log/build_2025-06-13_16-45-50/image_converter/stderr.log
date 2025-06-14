@@ -1,5 +1,0 @@
-  File "/home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages/image_converter/rgbd_to_pc.py", line 292
-    main()y
-          ^
-SyntaxError: invalid syntax
-
