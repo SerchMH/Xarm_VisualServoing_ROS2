@@ -1,0 +1,49 @@
+[ 15%] Built target xarm_ros_client
+[ 38%] Built target xarm_ros_driver
+[ 53%] Built target test_robot_states
+[ 69%] Built target test_xarm_velo_move
+[ 84%] Built target xarm_driver_node
+[100%] Built target test_xarm_ros_client
+-- Install configuration: ""
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/library_path.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/library_path.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/xarm_driver.h
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/visibility_control.h
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/xarm_msgs.h
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/xarm_ros_client.h
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/libxarm_ros_driver.so
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/libxarm_ros_client.so
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/xarm_driver_node
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/test_xarm_ros_client
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/test_xarm_velo_move
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/test_robot_states
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/xarm5_driver.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/uf850_driver.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/lite6_driver.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/xarm7_driver.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/lib
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/lib/robot_api_lib.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/xarm6_driver.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/_robot_driver.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//config
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//config/xarm_params.yaml
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/ament_index/resource_index/package_run_dependencies/xarm_api
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/ament_index/resource_index/parent_prefix_path/xarm_api
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/ament_prefix_path.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/path.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/path.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.bash
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.zsh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/package.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/ament_index/resource_index/packages/xarm_api
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/xarm_apiConfig.cmake
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/xarm_apiConfig-version.cmake
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/package.xml

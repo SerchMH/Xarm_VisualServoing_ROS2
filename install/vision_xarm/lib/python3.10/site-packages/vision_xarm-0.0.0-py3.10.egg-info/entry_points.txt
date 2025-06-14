@@ -1,0 +1,4 @@
+[console_scripts]
+color_map = vision_xarm.color_map:main
+nube_kinect = vision_xarm.nube_kinect:main
+

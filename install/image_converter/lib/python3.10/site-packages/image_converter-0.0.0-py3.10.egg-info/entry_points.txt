@@ -1,0 +1,5 @@
+[console_scripts]
+image_to_rgbd = image_converter.image_to_rgbd:main
+point_cloud_gen = image_converter.pointcloud_generator:main
+rgbd_to_pc = image_converter.rgbd_to_pc:main
+

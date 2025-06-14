@@ -1,0 +1,35 @@
+[ 75%] Built target xarm_joystick_input
+[100%] Built target xarm_keyboard_input
+-- Install configuration: ""
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/lib/libxarm_joystick_input.so
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/lib/xarm_moveit_servo/xarm_keyboard_input
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//config
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//config/xarm_moveit_servo_config.yaml
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/lite6_moveit_servo_realmove.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/xarm_moveit_servo_fake.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/_robot_moveit_servo_fake.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/xarm_moveit_servo_realmove.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/_robot_moveit_servo.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/uf850_moveit_servo_realmove.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/_robot_moveit_servo_realmove.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/uf850_moveit_servo_fake.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//launch/lite6_moveit_servo_fake.launch.py
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//rviz
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo//rviz/servo.rviz
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/ament_index/resource_index/package_run_dependencies/xarm_moveit_servo
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/ament_index/resource_index/parent_prefix_path/xarm_moveit_servo
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/environment/path.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/environment/path.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/local_setup.bash
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/local_setup.sh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/local_setup.zsh
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/local_setup.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/package.dsv
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/ament_index/resource_index/packages/xarm_moveit_servo
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/ament_index/resource_index/rclcpp_components/xarm_moveit_servo
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/cmake/xarm_moveit_servoConfig.cmake
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/cmake/xarm_moveit_servoConfig-version.cmake
+-- Up-to-date: /home/serch/xarm_ws/install/xarm_moveit_servo/share/xarm_moveit_servo/package.xml

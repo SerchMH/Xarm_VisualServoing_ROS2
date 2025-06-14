@@ -1,0 +1,112 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Found hardware_interface: 2.50.0 (/opt/ros/humble/share/hardware_interface/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found rclcpp_action: 16.0.12 (/opt/ros/humble/share/rclcpp_action/cmake)
+-- Found controller_manager_msgs: 2.50.0 (/opt/ros/humble/share/controller_manager_msgs/cmake)
+-- Found xarm_msgs: 0.0.0 (/home/serch/xarm_ws/install/xarm_msgs/share/xarm_msgs/cmake)
+-- Found xarm_api: 0.0.0 (/home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake)
+-- Found xarm_sdk: 0.0.0 (/home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/serch/xarm_ws/src/xarm_ros2/xarm_controller/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/serch/xarm_ws/build/xarm_controller
+[ 33%] [32mBuilding CXX object CMakeFiles/uf_robot_hardware.dir/src/hardware/uf_robot_system_hardware.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/uf_robot_hardware.dir/src/hardware/uf_robot_fake_system_hardware.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libuf_robot_hardware.so[0m
+[100%] Built target uf_robot_hardware
+-- Install configuration: ""
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/uf_hardware_interface_plugins.xml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/include
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/include/xarm_controller
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/include/xarm_controller/hardware
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/include/xarm_controller/hardware/uf_robot_fake_system_hardware.h
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/include/xarm_controller/hardware/uf_robot_system_hardware.h
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/lib/libuf_robot_hardware.so
+-- Set runtime path of "/home/serch/xarm_ws/install/xarm_controller/lib/libuf_robot_hardware.so" to ""
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/xarm5_control_rviz_display.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/_dual_ros2_control.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/xarm7_mirror_control_rviz_display.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/xarm6_control_rviz_display.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/lib
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/lib/robot_controller_lib.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/lite6_control_rviz_display.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/xarm7_control_rviz_display.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/_robot_ros2_control.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/uf850_control_rviz_display.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//launch/_ros2_control.launch.py
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/xarm7_mirror_gripper_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/xarm7_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/uf850_gripper_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/lite6_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/uf850_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/bio_gripper_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/xarm7_mirror_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/xarm_gripper_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/xarm6_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller//config/xarm5_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/environment/library_path.sh
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/environment/library_path.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/ament_index/resource_index/package_run_dependencies/xarm_controller
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/ament_index/resource_index/parent_prefix_path/xarm_controller
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/environment/ament_prefix_path.sh
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/environment/ament_prefix_path.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/environment/path.sh
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/environment/path.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/local_setup.bash
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/local_setup.sh
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/local_setup.zsh
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/local_setup.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/package.dsv
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/ament_index/resource_index/packages/xarm_controller
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/xarm_controller
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/cmake/xarm_controllerConfig.cmake
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/cmake/xarm_controllerConfig-version.cmake
+-- Installing: /home/serch/xarm_ws/install/xarm_controller/share/xarm_controller/package.xml

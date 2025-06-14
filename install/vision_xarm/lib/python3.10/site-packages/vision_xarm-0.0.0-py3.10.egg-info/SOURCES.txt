@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/vision_xarm/vision_xarm.egg-info/PKG-INFO
+../../build/vision_xarm/vision_xarm.egg-info/SOURCES.txt
+../../build/vision_xarm/vision_xarm.egg-info/dependency_links.txt
+../../build/vision_xarm/vision_xarm.egg-info/entry_points.txt
+../../build/vision_xarm/vision_xarm.egg-info/requires.txt
+../../build/vision_xarm/vision_xarm.egg-info/top_level.txt
+../../build/vision_xarm/vision_xarm.egg-info/zip-safe
+resource/vision_xarm
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+vision_xarm/__init__.py
+vision_xarm/color_map.py
+vision_xarm/nube_kinect.py

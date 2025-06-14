@@ -1,0 +1,53 @@
+[0.018s] Invoking command in '/home/serch/xarm_ws/build/xarm_api': CMAKE_PREFIX_PATH=/home/serch/xarm_ws/install/xarm_sdk:/home/serch/xarm_ws/install/xarm_msgs:/home/serch/xarm_ws/install/xarm_description:/home/serch/xarm_ws/install/xarm_planner:/home/serch/xarm_ws/install/xarm_moveit_servo:/home/serch/xarm_ws/install/xarm_moveit_config:/home/serch/xarm_ws/install/xarm_gazebo:/home/serch/xarm_ws/install/xarm_controller:/home/serch/xarm_ws/install/xarm_api:/home/serch/xarm_ws/install/realsense_gazebo_plugin:/home/serch/xarm_ws/install/mbot_demo:/home/serch/xarm_ws/install/azure_kinect_ros_driver:/home/serch/VREP:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble LD_LIBRARY_PATH=/home/serch/xarm_ws/install/xarm_sdk/lib:/home/serch/xarm_ws/install/xarm_msgs/lib:/home/serch/xarm_ws/install/xarm_planner/lib:/home/serch/xarm_ws/install/xarm_moveit_servo/lib:/home/serch/xarm_ws/install/xarm_gazebo/lib:/home/serch/xarm_ws/install/xarm_controller/lib:/home/serch/xarm_ws/install/xarm_api/lib:/home/serch/xarm_ws/install/realsense_gazebo_plugin/lib:/home/serch/VREP:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/serch/xarm_ws/build/xarm_api -- -j16 -l16
+[0.087s] [ 30%] Built target xarm_ros_client
+[0.087s] [ 38%] Built target xarm_ros_driver
+[0.087s] [ 53%] Built target test_robot_states
+[0.115s] [ 84%] Built target xarm_driver_node
+[0.115s] [ 84%] Built target test_xarm_velo_move
+[0.115s] [100%] Built target test_xarm_ros_client
+[0.127s] Invoked command in '/home/serch/xarm_ws/build/xarm_api' returned '0': CMAKE_PREFIX_PATH=/home/serch/xarm_ws/install/xarm_sdk:/home/serch/xarm_ws/install/xarm_msgs:/home/serch/xarm_ws/install/xarm_description:/home/serch/xarm_ws/install/xarm_planner:/home/serch/xarm_ws/install/xarm_moveit_servo:/home/serch/xarm_ws/install/xarm_moveit_config:/home/serch/xarm_ws/install/xarm_gazebo:/home/serch/xarm_ws/install/xarm_controller:/home/serch/xarm_ws/install/xarm_api:/home/serch/xarm_ws/install/realsense_gazebo_plugin:/home/serch/xarm_ws/install/mbot_demo:/home/serch/xarm_ws/install/azure_kinect_ros_driver:/home/serch/VREP:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble LD_LIBRARY_PATH=/home/serch/xarm_ws/install/xarm_sdk/lib:/home/serch/xarm_ws/install/xarm_msgs/lib:/home/serch/xarm_ws/install/xarm_planner/lib:/home/serch/xarm_ws/install/xarm_moveit_servo/lib:/home/serch/xarm_ws/install/xarm_gazebo/lib:/home/serch/xarm_ws/install/xarm_controller/lib:/home/serch/xarm_ws/install/xarm_api/lib:/home/serch/xarm_ws/install/realsense_gazebo_plugin/lib:/home/serch/VREP:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/serch/xarm_ws/build/xarm_api -- -j16 -l16
+[0.129s] Invoking command in '/home/serch/xarm_ws/build/xarm_api': CMAKE_PREFIX_PATH=/home/serch/xarm_ws/install/xarm_sdk:/home/serch/xarm_ws/install/xarm_msgs:/home/serch/xarm_ws/install/xarm_description:/home/serch/xarm_ws/install/xarm_planner:/home/serch/xarm_ws/install/xarm_moveit_servo:/home/serch/xarm_ws/install/xarm_moveit_config:/home/serch/xarm_ws/install/xarm_gazebo:/home/serch/xarm_ws/install/xarm_controller:/home/serch/xarm_ws/install/xarm_api:/home/serch/xarm_ws/install/realsense_gazebo_plugin:/home/serch/xarm_ws/install/mbot_demo:/home/serch/xarm_ws/install/azure_kinect_ros_driver:/home/serch/VREP:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble LD_LIBRARY_PATH=/home/serch/xarm_ws/install/xarm_sdk/lib:/home/serch/xarm_ws/install/xarm_msgs/lib:/home/serch/xarm_ws/install/xarm_planner/lib:/home/serch/xarm_ws/install/xarm_moveit_servo/lib:/home/serch/xarm_ws/install/xarm_gazebo/lib:/home/serch/xarm_ws/install/xarm_controller/lib:/home/serch/xarm_ws/install/xarm_api/lib:/home/serch/xarm_ws/install/realsense_gazebo_plugin/lib:/home/serch/VREP:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/serch/xarm_ws/build/xarm_api
+[0.137s] -- Install configuration: ""
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/library_path.sh
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/library_path.dsv
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/xarm_driver.h
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/visibility_control.h
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/xarm_msgs.h
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/include/xarm_api/xarm_ros_client.h
+[0.138s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/libxarm_ros_driver.so
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/libxarm_ros_client.so
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/xarm_driver_node
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/test_xarm_ros_client
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/test_xarm_velo_move
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/lib/xarm_api/test_robot_states
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/xarm5_driver.launch.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/uf850_driver.launch.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/lite6_driver.launch.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/xarm7_driver.launch.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/lib
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/lib/robot_api_lib.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/xarm6_driver.launch.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//launch/_robot_driver.launch.py
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//config
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api//config/xarm_params.yaml
+[0.139s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/ament_index/resource_index/package_run_dependencies/xarm_api
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/ament_index/resource_index/parent_prefix_path/xarm_api
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/ament_prefix_path.sh
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/ament_prefix_path.dsv
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/path.sh
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/environment/path.dsv
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.bash
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.sh
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.zsh
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/local_setup.dsv
+[0.140s] -- Installing: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/package.dsv
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/ament_index/resource_index/packages/xarm_api
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/ament_cmake_export_libraries-extras.cmake
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/xarm_apiConfig.cmake
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/cmake/xarm_apiConfig-version.cmake
+[0.140s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_api/share/xarm_api/package.xml
+[0.142s] Invoked command in '/home/serch/xarm_ws/build/xarm_api' returned '0': CMAKE_PREFIX_PATH=/home/serch/xarm_ws/install/xarm_sdk:/home/serch/xarm_ws/install/xarm_msgs:/home/serch/xarm_ws/install/xarm_description:/home/serch/xarm_ws/install/xarm_planner:/home/serch/xarm_ws/install/xarm_moveit_servo:/home/serch/xarm_ws/install/xarm_moveit_config:/home/serch/xarm_ws/install/xarm_gazebo:/home/serch/xarm_ws/install/xarm_controller:/home/serch/xarm_ws/install/xarm_api:/home/serch/xarm_ws/install/realsense_gazebo_plugin:/home/serch/xarm_ws/install/mbot_demo:/home/serch/xarm_ws/install/azure_kinect_ros_driver:/home/serch/VREP:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble LD_LIBRARY_PATH=/home/serch/xarm_ws/install/xarm_sdk/lib:/home/serch/xarm_ws/install/xarm_msgs/lib:/home/serch/xarm_ws/install/xarm_planner/lib:/home/serch/xarm_ws/install/xarm_moveit_servo/lib:/home/serch/xarm_ws/install/xarm_gazebo/lib:/home/serch/xarm_ws/install/xarm_controller/lib:/home/serch/xarm_ws/install/xarm_api/lib:/home/serch/xarm_ws/install/realsense_gazebo_plugin/lib:/home/serch/VREP:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/serch/xarm_ws/build/xarm_api

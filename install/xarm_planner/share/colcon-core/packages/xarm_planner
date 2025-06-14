@@ -1,0 +1,1 @@
+geometry_msgs:launch:launch_ros:moveit:moveit_msgs:moveit_ros_planning_interface:rclcpp:std_msgs:uf_ros_lib:xarm_description:xarm_moveit_config:xarm_msgs

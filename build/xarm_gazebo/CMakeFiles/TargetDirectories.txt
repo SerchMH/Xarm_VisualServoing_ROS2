@@ -1,0 +1,10 @@
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/uninstall.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/xarm_gazebo_uninstall.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/gazebo_mimic_joint_plugin.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/test.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/edit_cache.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/rebuild_cache.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/list_install_components.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/install.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/install/local.dir
+/home/serch/xarm_ws/build/xarm_gazebo/CMakeFiles/install/strip.dir

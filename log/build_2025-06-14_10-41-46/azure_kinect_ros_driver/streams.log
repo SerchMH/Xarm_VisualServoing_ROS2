@@ -1,0 +1,28 @@
+[0.282s] Invoking command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/azure_kinect_ros_driver -- -j16 -l16
+[0.709s] [100%] Built target azure_kinect_ros_driver_node
+[0.728s] Invoked command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/azure_kinect_ros_driver -- -j16 -l16
+[0.729s] Invoking command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/azure_kinect_ros_driver
+[0.757s] -- Install configuration: ""
+[0.757s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/lib/azure_kinect_ros_driver/node
+[0.757s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch
+[0.757s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch/slam_rtabmap.launch
+[0.757s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch/driver.launch.py
+[0.757s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch/rectify_test.launch
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//urdf
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//urdf/azure_kinect.urdf.xacro
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/ament_index/resource_index/package_run_dependencies/azure_kinect_ros_driver
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/ament_index/resource_index/parent_prefix_path/azure_kinect_ros_driver
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/ament_prefix_path.sh
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/ament_prefix_path.dsv
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/path.sh
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/path.dsv
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.bash
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.sh
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.zsh
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.dsv
+[0.758s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/package.dsv
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/ament_index/resource_index/packages/azure_kinect_ros_driver
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/cmake/azure_kinect_ros_driverConfig.cmake
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/cmake/azure_kinect_ros_driverConfig-version.cmake
+[0.758s] -- Up-to-date: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/package.xml
+[0.865s] Invoked command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/azure_kinect_ros_driver

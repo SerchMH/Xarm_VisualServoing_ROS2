@@ -1,0 +1,45 @@
+[0.719s] Invoking command in '/home/serch/xarm_ws/build/mbot_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/mbot_demo -- -j16 -l16
+[1.434s] Invoked command in '/home/serch/xarm_ws/build/mbot_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/mbot_demo -- -j16 -l16
+[1.434s] Invoking command in '/home/serch/xarm_ws/build/mbot_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/mbot_demo
+[1.525s] -- Install configuration: ""
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//rviz
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//rviz/moveit.rviz
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot_macro.xacro
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.gazebo.xacro
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.ros2_control.xacro
+[1.525s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.urdf.xacro
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.transmission.xacro
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot_with_xarm.urdf.xacro
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf/mbot_macro.srdf.xacro
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf/mbot_with_xarm.srdf.xacro
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/ros2_controllers.yaml
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/kinematics.yaml
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/joint_limits.yaml
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/controllers.yaml
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/ompl_planning.yaml
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//worlds
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//worlds/empty.world
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_gazebo.launch.py
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_fake.launch.py
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/_robot_on_mbot_gazebo.launch.py
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_realmove.launch.py
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/package_run_dependencies/mbot_demo
+[1.526s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/parent_prefix_path/mbot_demo
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/ament_prefix_path.sh
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/ament_prefix_path.dsv
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/path.sh
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/path.dsv
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.bash
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.sh
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.zsh
+[1.527s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.dsv
+[1.530s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/package.dsv
+[1.530s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/packages/mbot_demo
+[1.530s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/cmake/mbot_demoConfig.cmake
+[1.530s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/cmake/mbot_demoConfig-version.cmake
+[1.531s] -- Up-to-date: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/package.xml
+[1.665s] Invoked command in '/home/serch/xarm_ws/build/mbot_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/mbot_demo

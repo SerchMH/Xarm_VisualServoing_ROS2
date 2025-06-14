@@ -1,0 +1,4 @@
+source;share/azure_kinect_ros_driver/local_setup.bash
+source;share/azure_kinect_ros_driver/local_setup.dsv
+source;share/azure_kinect_ros_driver/local_setup.sh
+source;share/azure_kinect_ros_driver/local_setup.zsh

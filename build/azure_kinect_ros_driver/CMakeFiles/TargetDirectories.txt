@@ -1,0 +1,10 @@
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/uninstall.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/azure_kinect_ros_driver_uninstall.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/azure_kinect_ros_driver_node.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/test.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/edit_cache.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/rebuild_cache.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/list_install_components.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/install.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/install/local.dir
+/home/serch/xarm_ws/build/azure_kinect_ros_driver/CMakeFiles/install/strip.dir

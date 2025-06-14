@@ -1,0 +1,9 @@
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/uninstall.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/xarm_description_uninstall.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/test.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/edit_cache.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/rebuild_cache.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/list_install_components.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/install.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/install/local.dir
+/home/serch/xarm_ws/build/xarm_description/CMakeFiles/install/strip.dir

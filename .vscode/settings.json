@@ -1,0 +1,194 @@
+{
+    // Python Configuration
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.pythonPath": "/usr/bin/python3",
+    
+    // Python Path for ROS2 Libraries
+    "python.analysis.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/usr/lib/python3/dist-packages",
+        "/usr/local/lib/python3.10/dist-packages",
+        "${workspaceFolder}/install/lib/python3.10/site-packages",
+        "${workspaceFolder}/build",
+        "${workspaceFolder}/src"
+    ],
+    
+    // Environment Variables for ROS2
+    "python.terminal.activateEnvironment": true,
+    "python.envFile": "${workspaceFolder}/.env",
+    
+    // Pylint Configuration
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--init-hook=import sys; sys.path.append('/opt/ros/humble/lib/python3.10/site-packages')"
+    ],
+    
+    // IntelliSense Configuration
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.typeCheckingMode": "basic",
+    
+    // ROS2 Specific Settings
+    "ros.distro": "humble",
+    "ros.rosSetupScript": "/opt/ros/humble/setup.bash",
+    "ros.workspaceOverlayScript": "${workspaceFolder}/install/setup.bash",
+    
+    // Terminal Configuration
+    "terminal.integrated.env.linux": {
+        "ROS_DISTRO": "humble",
+        "ROS_VERSION": "2",
+        "ROS_DOMAIN_ID": "0",
+        "PYTHONPATH": "/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:${workspaceFolder}/install/lib/python3.10/site-packages",
+        "AMENT_PREFIX_PATH": "/opt/ros/humble:${workspaceFolder}/install",
+        "CMAKE_PREFIX_PATH": "/opt/ros/humble:${workspaceFolder}/install",
+        "PKG_CONFIG_PATH": "/opt/ros/humble/lib/pkgconfig:${workspaceFolder}/install/lib/pkgconfig",
+        "LD_LIBRARY_PATH": "/opt/ros/humble/lib:${workspaceFolder}/install/lib",
+        "PATH": "/opt/ros/humble/bin:${workspaceFolder}/install/bin:${env:PATH}"
+    },
+    
+    // File Associations
+    "files.associations": {
+        "*.launch": "xml",
+        "*.launch.py": "python",
+        "*.launch.xml": "xml",
+        "*.urdf": "xml",
+        "*.xacro": "xml",
+        "*.sdf": "xml",
+        "*.world": "xml",
+        "package.xml": "xml",
+        "*.msg": "plaintext",
+        "*.srv": "plaintext",
+        "*.action": "plaintext",
+        "*.cfg": "python"
+    },
+    
+    // Code Formatting
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length", "100"],
+    "python.sortImports.args": ["--profile", "black"],
+    
+    // Auto-save and format on save
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    
+    // CMake Configuration (for C++ packages)
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/src",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.installPrefix": "${workspaceFolder}/install",
+    
+    // C++ Configuration
+    "C_Cpp.default.includePath": [
+        "/opt/ros/humble/include/**",
+        "/usr/include/**",
+        "${workspaceFolder}/src/**",
+        "${workspaceFolder}/install/include/**",
+        "${workspaceFolder}/build/**"
+    ],
+    "C_Cpp.default.defines": [
+        "ROS_DISTRO_HUMBLE"
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    
+    // Search Configuration
+    "search.exclude": {
+        "**/build": true,
+        "**/install": true,
+        "**/log": true,
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    },
+    
+    // File Watcher Configuration
+    "files.watcherExclude": {
+        "**/build/**": true,
+        "**/install/**": true,
+        "**/log/**": true
+    },
+    
+    // Extension Recommendations
+    "extensions.recommendations": [
+        "ms-python.python",
+        "ms-python.pylint",
+        "ms-vscode.cpptools",
+        "twxs.cmake",
+        "ms-vscode.cmake-tools",
+        "redhat.vscode-xml",
+        "ms-python.black-formatter",
+        "ms-python.isort"
+    ],
+    
+    // Integrated Terminal
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "args": ["-l"],
+            "env": {
+                "TERM_PROGRAM": "vscode"
+            }
+        },
+        "ros2": {
+            "path": "bash",
+            "args": ["-l", "-c", "source /opt/ros/humble/setup.bash && source ${workspaceFolder}/install/setup.bash 2>/dev/null || true && exec bash"],
+            "env": {
+                "TERM_PROGRAM": "vscode"
+            }
+        }
+    },
+    
+    // Tasks Configuration
+    "tasks.version": "2.0.0",
+    "tasks.tasks": [
+        {
+            "label": "colcon: build",
+            "type": "shell",
+            "command": "colcon build --symlink-install",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}",
+                "env": {
+                    "AMENT_PREFIX_PATH": "/opt/ros/humble",
+                    "CMAKE_PREFIX_PATH": "/opt/ros/humble"
+                }
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "colcon: test",
+            "type": "shell",
+            "command": "colcon test && colcon test-result --verbose",
+            "group": "test",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "source ros2",
+            "type": "shell",
+            "command": "source /opt/ros/humble/setup.bash && source install/setup.bash",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        }
+    ]
+}

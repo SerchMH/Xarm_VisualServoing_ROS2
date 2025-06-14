@@ -1,0 +1,60 @@
+running egg_info
+creating ../../../build/uf_ros_lib/uf_ros_lib.egg-info
+writing ../../../build/uf_ros_lib/uf_ros_lib.egg-info/PKG-INFO
+writing dependency_links to ../../../build/uf_ros_lib/uf_ros_lib.egg-info/dependency_links.txt
+writing entry points to ../../../build/uf_ros_lib/uf_ros_lib.egg-info/entry_points.txt
+writing requirements to ../../../build/uf_ros_lib/uf_ros_lib.egg-info/requires.txt
+writing top-level names to ../../../build/uf_ros_lib/uf_ros_lib.egg-info/top_level.txt
+writing manifest file '../../../build/uf_ros_lib/uf_ros_lib.egg-info/SOURCES.txt'
+reading manifest file '../../../build/uf_ros_lib/uf_ros_lib.egg-info/SOURCES.txt'
+writing manifest file '../../../build/uf_ros_lib/uf_ros_lib.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/serch/xarm_ws/build/uf_ros_lib/build
+creating /home/serch/xarm_ws/build/uf_ros_lib/build/lib
+creating /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib
+copying uf_ros_lib/moveit_configs_builder.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib
+copying uf_ros_lib/__init__.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib
+copying uf_ros_lib/parameter_descriptions.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib
+copying uf_ros_lib/uf_robot_utils.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib
+creating /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+copying uf_ros_lib/substitutions/common.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+copying uf_ros_lib/substitutions/planning_pipelines.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+copying uf_ros_lib/substitutions/__init__.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+copying uf_ros_lib/substitutions/kinematics.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+copying uf_ros_lib/substitutions/controllers.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+copying uf_ros_lib/substitutions/joint_limits.py -> /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions
+running install
+running install_lib
+creating /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/moveit_configs_builder.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/__init__.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/parameter_descriptions.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib
+creating /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions/common.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions/planning_pipelines.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions/__init__.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions/kinematics.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions/controllers.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/substitutions/joint_limits.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions
+copying /home/serch/xarm_ws/build/uf_ros_lib/build/lib/uf_ros_lib/uf_robot_utils.py -> /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/moveit_configs_builder.py to moveit_configs_builder.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/parameter_descriptions.py to parameter_descriptions.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions/common.py to common.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions/planning_pipelines.py to planning_pipelines.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions/kinematics.py to kinematics.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions/controllers.py to controllers.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/substitutions/joint_limits.py to joint_limits.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib/uf_robot_utils.py to uf_robot_utils.cpython-310.pyc
+running install_data
+creating /home/serch/xarm_ws/install/uf_ros_lib/share/ament_index
+creating /home/serch/xarm_ws/install/uf_ros_lib/share/ament_index/resource_index
+creating /home/serch/xarm_ws/install/uf_ros_lib/share/ament_index/resource_index/packages
+copying resource/uf_ros_lib -> /home/serch/xarm_ws/install/uf_ros_lib/share/ament_index/resource_index/packages
+copying package.xml -> /home/serch/xarm_ws/install/uf_ros_lib/share/uf_ros_lib
+running install_egg_info
+Copying ../../../build/uf_ros_lib/uf_ros_lib.egg-info to /home/serch/xarm_ws/install/uf_ros_lib/lib/python3.10/site-packages/uf_ros_lib-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/serch/xarm_ws/build/uf_ros_lib/install.log'

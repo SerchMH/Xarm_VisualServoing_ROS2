@@ -1,0 +1,27 @@
+[1.383s] Invoking command in '/home/serch/xarm_ws/src/image_converter': PYTHONPATH=/home/serch/xarm_ws/build/image_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_converter build --build-base /home/serch/xarm_ws/build/image_converter/build install --record /home/serch/xarm_ws/build/image_converter/install.log --single-version-externally-managed install_data
+[1.586s] running egg_info
+[1.587s] writing ../../build/image_converter/image_converter.egg-info/PKG-INFO
+[1.587s] writing dependency_links to ../../build/image_converter/image_converter.egg-info/dependency_links.txt
+[1.587s] writing entry points to ../../build/image_converter/image_converter.egg-info/entry_points.txt
+[1.587s] writing requirements to ../../build/image_converter/image_converter.egg-info/requires.txt
+[1.587s] writing top-level names to ../../build/image_converter/image_converter.egg-info/top_level.txt
+[1.588s] reading manifest file '../../build/image_converter/image_converter.egg-info/SOURCES.txt'
+[1.589s] adding license file 'LICENSE'
+[1.589s] writing manifest file '../../build/image_converter/image_converter.egg-info/SOURCES.txt'
+[1.589s] running build
+[1.589s] running build_py
+[1.589s] copying image_converter/rgbd_to_pc.py -> /home/serch/xarm_ws/build/image_converter/build/lib/image_converter
+[1.590s] running install
+[1.590s] running install_lib
+[1.590s] copying /home/serch/xarm_ws/build/image_converter/build/lib/image_converter/rgbd_to_pc.py -> /home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages/image_converter
+[1.591s] byte-compiling /home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages/image_converter/rgbd_to_pc.py to rgbd_to_pc.cpython-310.pyc
+[1.593s] running install_data
+[1.593s] running install_egg_info
+[1.594s] removing '/home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages/image_converter-0.0.0-py3.10.egg-info' (and everything under it)
+[1.594s] Copying ../../build/image_converter/image_converter.egg-info to /home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages/image_converter-0.0.0-py3.10.egg-info
+[1.595s] running install_scripts
+[1.612s] Installing image_to_rgbd script to /home/serch/xarm_ws/install/image_converter/lib/image_converter
+[1.612s] Installing point_cloud_gen script to /home/serch/xarm_ws/install/image_converter/lib/image_converter
+[1.612s] Installing rgbd_to_pc script to /home/serch/xarm_ws/install/image_converter/lib/image_converter
+[1.612s] writing list of installed files to '/home/serch/xarm_ws/build/image_converter/install.log'
+[1.674s] Invoked command in '/home/serch/xarm_ws/src/image_converter' returned '0': PYTHONPATH=/home/serch/xarm_ws/build/image_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/serch/xarm_ws/install/image_converter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_converter build --build-base /home/serch/xarm_ws/build/image_converter/build install --record /home/serch/xarm_ws/build/image_converter/install.log --single-version-externally-managed install_data

@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/vision_xarm/vision_xarm.egg-info
+writing ../../build/vision_xarm/vision_xarm.egg-info/PKG-INFO
+writing dependency_links to ../../build/vision_xarm/vision_xarm.egg-info/dependency_links.txt
+writing entry points to ../../build/vision_xarm/vision_xarm.egg-info/entry_points.txt
+writing requirements to ../../build/vision_xarm/vision_xarm.egg-info/requires.txt
+writing top-level names to ../../build/vision_xarm/vision_xarm.egg-info/top_level.txt
+writing manifest file '../../build/vision_xarm/vision_xarm.egg-info/SOURCES.txt'
+reading manifest file '../../build/vision_xarm/vision_xarm.egg-info/SOURCES.txt'
+writing manifest file '../../build/vision_xarm/vision_xarm.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/serch/xarm_ws/build/vision_xarm/build
+creating /home/serch/xarm_ws/build/vision_xarm/build/lib
+creating /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm
+copying vision_xarm/nube_kinect.py -> /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm
+copying vision_xarm/__init__.py -> /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm
+copying vision_xarm/color_map.py -> /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm
+running install
+running install_lib
+creating /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm
+copying /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm/nube_kinect.py -> /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm
+copying /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm/__init__.py -> /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm
+copying /home/serch/xarm_ws/build/vision_xarm/build/lib/vision_xarm/color_map.py -> /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm
+byte-compiling /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm/nube_kinect.py to nube_kinect.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm/color_map.py to color_map.cpython-310.pyc
+running install_data
+creating /home/serch/xarm_ws/install/vision_xarm/share/ament_index
+creating /home/serch/xarm_ws/install/vision_xarm/share/ament_index/resource_index
+creating /home/serch/xarm_ws/install/vision_xarm/share/ament_index/resource_index/packages
+copying resource/vision_xarm -> /home/serch/xarm_ws/install/vision_xarm/share/ament_index/resource_index/packages
+copying package.xml -> /home/serch/xarm_ws/install/vision_xarm/share/vision_xarm
+running install_egg_info
+Copying ../../build/vision_xarm/vision_xarm.egg-info to /home/serch/xarm_ws/install/vision_xarm/lib/python3.10/site-packages/vision_xarm-0.0.0-py3.10.egg-info
+running install_scripts
+Installing color_map script to /home/serch/xarm_ws/install/vision_xarm/lib/vision_xarm
+Installing nube_kinect script to /home/serch/xarm_ws/install/vision_xarm/lib/vision_xarm
+writing list of installed files to '/home/serch/xarm_ws/build/vision_xarm/install.log'

@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/pose_estimator/pose_estimator.egg-info/PKG-INFO
+writing dependency_links to ../../build/pose_estimator/pose_estimator.egg-info/dependency_links.txt
+writing entry points to ../../build/pose_estimator/pose_estimator.egg-info/entry_points.txt
+writing requirements to ../../build/pose_estimator/pose_estimator.egg-info/requires.txt
+writing top-level names to ../../build/pose_estimator/pose_estimator.egg-info/top_level.txt
+reading manifest file '../../build/pose_estimator/pose_estimator.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/pose_estimator/pose_estimator.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pose_estimator/pc_matcher.py -> /home/serch/xarm_ws/build/pose_estimator/build/lib/pose_estimator
+running install
+running install_lib
+copying /home/serch/xarm_ws/build/pose_estimator/build/lib/pose_estimator/pc_matcher.py -> /home/serch/xarm_ws/install/pose_estimator/lib/python3.10/site-packages/pose_estimator
+byte-compiling /home/serch/xarm_ws/install/pose_estimator/lib/python3.10/site-packages/pose_estimator/pc_matcher.py to pc_matcher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/serch/xarm_ws/install/pose_estimator/lib/python3.10/site-packages/pose_estimator-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pose_estimator/pose_estimator.egg-info to /home/serch/xarm_ws/install/pose_estimator/lib/python3.10/site-packages/pose_estimator-0.0.0-py3.10.egg-info
+running install_scripts
+Installing match_pointcloud script to /home/serch/xarm_ws/install/pose_estimator/lib/pose_estimator
+writing list of installed files to '/home/serch/xarm_ws/build/pose_estimator/install.log'

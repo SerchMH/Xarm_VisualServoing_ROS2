@@ -1,0 +1,85 @@
+[0.231s] Invoking command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake /home/serch/xarm_ws/src/azure_kinect_ros_driver -DCMAKE_INSTALL_PREFIX=/home/serch/xarm_ws/install/azure_kinect_ros_driver
+[0.661s] -- The C compiler identification is GNU 11.4.0
+[0.661s] -- The CXX compiler identification is GNU 11.4.0
+[0.661s] -- Detecting C compiler ABI info
+[0.661s] -- Detecting C compiler ABI info - done
+[0.661s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.661s] -- Detecting C compile features
+[0.661s] -- Detecting C compile features - done
+[0.662s] -- Detecting CXX compiler ABI info
+[0.662s] -- Detecting CXX compiler ABI info - done
+[0.662s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.662s] -- Detecting CXX compile features
+[0.662s] -- Detecting CXX compile features - done
+[0.662s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.662s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.662s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.694s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.698s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.704s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.714s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.726s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.771s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.774s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.864s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.890s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.945s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.963s] -- Looking for pthread.h
+[1.109s] -- Looking for pthread.h - found
+[1.110s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.320s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.324s] -- Found Threads: TRUE  
+[1.501s] -- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.584s] -- Found visualization_msgs: 4.8.0 (/opt/ros/humble/share/visualization_msgs/cmake)
+[1.653s] -- Found image_transport: 3.1.11 (/opt/ros/humble/share/image_transport/cmake)
+[1.775s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[1.783s] -- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+[2.087s] -- Found tf2_geometry_msgs: 0.25.12 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[2.132s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.140s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.140s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.147s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[2.197s] -- Found angles: 1.15.0 (/opt/ros/humble/share/angles/cmake)
+[2.214s] [0mFinding K4A SDK binaries[0m
+[2.267s] [0m!!! Body Tracking SDK not found: body tracking features will not be available !!![0m
+[2.267s] [0mK4A Libs: k4a::k4a;k4a::k4arecord[0m
+[2.267s] [0mK4A DLLs: /usr/lib/x86_64-linux-gnu/libk4a.so.1.4.1;/usr/lib/x86_64-linux-gnu/libk4arecord.so.1.4.1[0m
+[2.267s] [0mK4A Install Needed: FALSE[0m
+[2.436s] -- Configuring done
+[2.484s] -- Generating done
+[2.505s] -- Build files have been written to: /home/serch/xarm_ws/build/azure_kinect_ros_driver
+[2.531s] Invoked command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake /home/serch/xarm_ws/src/azure_kinect_ros_driver -DCMAKE_INSTALL_PREFIX=/home/serch/xarm_ws/install/azure_kinect_ros_driver
+[2.541s] Invoking command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/azure_kinect_ros_driver -- -j16 -l16
+[2.641s] [ 20%] [32mBuilding CXX object CMakeFiles/azure_kinect_ros_driver_node.dir/src/k4a_ros_bridge_node.cpp.o[0m
+[2.649s] [ 40%] [32mBuilding CXX object CMakeFiles/azure_kinect_ros_driver_node.dir/src/k4a_ros_device_params.cpp.o[0m
+[2.649s] [ 60%] [32mBuilding CXX object CMakeFiles/azure_kinect_ros_driver_node.dir/src/k4a_ros_device.cpp.o[0m
+[2.653s] [ 80%] [32mBuilding CXX object CMakeFiles/azure_kinect_ros_driver_node.dir/src/k4a_calibration_transform_data.cpp.o[0m
+[8.933s] [100%] [32m[1mLinking CXX executable node[0m
+[9.470s] [100%] Built target azure_kinect_ros_driver_node
+[9.482s] Invoked command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/azure_kinect_ros_driver -- -j16 -l16
+[9.483s] Invoking command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/azure_kinect_ros_driver
+[9.491s] -- Install configuration: ""
+[9.491s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/lib/azure_kinect_ros_driver/node
+[9.493s] -- Set runtime path of "/home/serch/xarm_ws/install/azure_kinect_ros_driver/lib/azure_kinect_ros_driver/node" to ""
+[9.493s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch/slam_rtabmap.launch
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch/driver.launch.py
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//launch/rectify_test.launch
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//urdf
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver//urdf/azure_kinect.urdf.xacro
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/ament_index/resource_index/package_run_dependencies/azure_kinect_ros_driver
+[9.494s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/ament_index/resource_index/parent_prefix_path/azure_kinect_ros_driver
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/ament_prefix_path.sh
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/ament_prefix_path.dsv
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/path.sh
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/environment/path.dsv
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.bash
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.sh
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.zsh
+[9.495s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/local_setup.dsv
+[9.496s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/package.dsv
+[9.496s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/ament_index/resource_index/packages/azure_kinect_ros_driver
+[9.496s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/cmake/azure_kinect_ros_driverConfig.cmake
+[9.496s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/cmake/azure_kinect_ros_driverConfig-version.cmake
+[9.496s] -- Installing: /home/serch/xarm_ws/install/azure_kinect_ros_driver/share/azure_kinect_ros_driver/package.xml
+[9.499s] Invoked command in '/home/serch/xarm_ws/build/azure_kinect_ros_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/azure_kinect_ros_driver

@@ -1,0 +1,5 @@
+[console_scripts]
+match_pointcloud = pose_estimator.pc_matcher:main
+xarm_pose_controller = pose_estimator.pose_controller:main
+xarm_xy_mover = pose_estimator.xarm_mover:main
+

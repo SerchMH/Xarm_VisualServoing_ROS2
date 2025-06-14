@@ -1,0 +1,62 @@
+[0.039s] Invoking command in '/home/serch/xarm_ws/build/xarm_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/xarm_sdk -- -j16 -l16
+[0.678s] [100%] Built target xarm_cxx_sdk
+[0.692s] Invoked command in '/home/serch/xarm_ws/build/xarm_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/xarm_sdk -- -j16 -l16
+[0.693s] Invoking command in '/home/serch/xarm_ws/build/xarm_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/xarm_sdk
+[0.710s] -- Install configuration: ""
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/environment/library_path.sh
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/environment/library_path.dsv
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/wrapper
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/wrapper/xarm_api.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/wrapper/common
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/wrapper/common/timer.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/wrapper/common/utils.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/connect.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/report_data.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/port
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/port/ser.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/port/socket.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/xarm_config.h
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/debug
+[0.710s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/debug/debug_print.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/os
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/os/network.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/os/bak
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/os/bak/thread.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/instruction
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/instruction/uxbus_cmd_config.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/instruction/uxbus_cmd.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/instruction/uxbus_cmd_tcp.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/instruction/uxbus_cmd_ser.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/instruction/servo3_config.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/common
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/common/data_type.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/common/crc16.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/xarm/core/common/queue_memcpy.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/serial
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/serial/impl
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/serial/impl/unix.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/serial/impl/win.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/serial/v8stdint.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/cxx/include/serial/serial.h
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/lib/libxarm_cxx_sdk.so
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/ament_index/resource_index/package_run_dependencies/xarm_sdk
+[0.711s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/ament_index/resource_index/parent_prefix_path/xarm_sdk
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/environment/ament_prefix_path.sh
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/environment/ament_prefix_path.dsv
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/environment/path.sh
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/environment/path.dsv
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/local_setup.bash
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/local_setup.sh
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/local_setup.zsh
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/local_setup.dsv
+[0.712s] -- Installing: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/package.dsv
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/ament_index/resource_index/packages/xarm_sdk
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/cmake/ament_cmake_export_libraries-extras.cmake
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig.cmake
+[0.712s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake
+[0.719s] -- Up-to-date: /home/serch/xarm_ws/install/xarm_sdk/share/xarm_sdk/package.xml
+[0.746s] Invoked command in '/home/serch/xarm_ws/build/xarm_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/xarm_sdk

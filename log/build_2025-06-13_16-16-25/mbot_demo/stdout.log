@@ -1,0 +1,64 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/serch/xarm_ws/build/mbot_demo
+-- Install configuration: ""
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//rviz
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//rviz/moveit.rviz
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot_macro.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.gazebo.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.ros2_control.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.urdf.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.transmission.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot_with_xarm.urdf.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf/mbot_macro.srdf.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf/mbot_with_xarm.srdf.xacro
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/ros2_controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/kinematics.yaml
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/joint_limits.yaml
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/controllers.yaml
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/ompl_planning.yaml
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//worlds
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//worlds/empty.world
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_gazebo.launch.py
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_fake.launch.py
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/_robot_on_mbot_gazebo.launch.py
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_realmove.launch.py
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/package_run_dependencies/mbot_demo
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/parent_prefix_path/mbot_demo
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/ament_prefix_path.sh
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/ament_prefix_path.dsv
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/path.sh
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/path.dsv
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.bash
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.sh
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.zsh
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.dsv
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/package.dsv
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/packages/mbot_demo
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/cmake/mbot_demoConfig.cmake
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/cmake/mbot_demoConfig-version.cmake
+-- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/package.xml

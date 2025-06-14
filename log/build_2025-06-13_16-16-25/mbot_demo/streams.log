@@ -1,0 +1,70 @@
+[0.437s] Invoking command in '/home/serch/xarm_ws/build/mbot_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake /home/serch/xarm_ws/src/xarm_ros2/demo/mbot_demo -DCMAKE_INSTALL_PREFIX=/home/serch/xarm_ws/install/mbot_demo
+[0.656s] -- The C compiler identification is GNU 11.4.0
+[0.656s] -- The CXX compiler identification is GNU 11.4.0
+[0.656s] -- Detecting C compiler ABI info
+[0.656s] -- Detecting C compiler ABI info - done
+[0.656s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.656s] -- Detecting C compile features
+[0.656s] -- Detecting C compile features - done
+[0.656s] -- Detecting CXX compiler ABI info
+[0.666s] -- Detecting CXX compiler ABI info - done
+[0.672s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.672s] -- Detecting CXX compile features
+[0.673s] -- Detecting CXX compile features - done
+[0.675s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.790s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.861s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.948s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.960s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.960s] -- Added test 'lint_cmake' to check CMake code style
+[0.960s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.961s] -- Added test 'xmllint' to check XML markup files
+[0.964s] -- Configuring done
+[0.967s] -- Generating done
+[0.973s] -- Build files have been written to: /home/serch/xarm_ws/build/mbot_demo
+[0.980s] Invoked command in '/home/serch/xarm_ws/build/mbot_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake /home/serch/xarm_ws/src/xarm_ros2/demo/mbot_demo -DCMAKE_INSTALL_PREFIX=/home/serch/xarm_ws/install/mbot_demo
+[0.983s] Invoking command in '/home/serch/xarm_ws/build/mbot_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/mbot_demo -- -j16 -l16
+[1.071s] Invoked command in '/home/serch/xarm_ws/build/mbot_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/mbot_demo -- -j16 -l16
+[1.077s] Invoking command in '/home/serch/xarm_ws/build/mbot_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/mbot_demo
+[1.096s] -- Install configuration: ""
+[1.096s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//rviz
+[1.096s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//rviz/moveit.rviz
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot_macro.xacro
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.gazebo.xacro
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.ros2_control.xacro
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.urdf.xacro
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot.transmission.xacro
+[1.097s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//urdf/mbot_with_xarm.urdf.xacro
+[1.099s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf
+[1.099s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf/mbot_macro.srdf.xacro
+[1.099s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//srdf/mbot_with_xarm.srdf.xacro
+[1.103s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config
+[1.103s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/ros2_controllers.yaml
+[1.105s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/kinematics.yaml
+[1.105s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/joint_limits.yaml
+[1.106s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/controllers.yaml
+[1.106s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//config/ompl_planning.yaml
+[1.106s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//worlds
+[1.106s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//worlds/empty.world
+[1.107s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch
+[1.107s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_gazebo.launch.py
+[1.107s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_fake.launch.py
+[1.107s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/_robot_on_mbot_gazebo.launch.py
+[1.107s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo//launch/mbot_moveit_realmove.launch.py
+[1.108s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/package_run_dependencies/mbot_demo
+[1.108s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/parent_prefix_path/mbot_demo
+[1.108s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/ament_prefix_path.sh
+[1.109s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/ament_prefix_path.dsv
+[1.109s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/path.sh
+[1.109s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/environment/path.dsv
+[1.109s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.bash
+[1.109s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.sh
+[1.110s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.zsh
+[1.111s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/local_setup.dsv
+[1.112s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/package.dsv
+[1.112s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/ament_index/resource_index/packages/mbot_demo
+[1.112s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/cmake/mbot_demoConfig.cmake
+[1.112s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/cmake/mbot_demoConfig-version.cmake
+[1.112s] -- Installing: /home/serch/xarm_ws/install/mbot_demo/share/mbot_demo/package.xml
+[1.125s] Invoked command in '/home/serch/xarm_ws/build/mbot_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/mbot_demo

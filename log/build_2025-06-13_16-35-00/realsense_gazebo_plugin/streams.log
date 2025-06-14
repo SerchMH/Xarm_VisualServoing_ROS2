@@ -1,0 +1,30 @@
+[0.666s] Invoking command in '/home/serch/xarm_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/realsense_gazebo_plugin -- -j16 -l16
+[0.743s] [100%] Built target realsense_gazebo_plugin
+[1.025s] Invoked command in '/home/serch/xarm_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --build /home/serch/xarm_ws/build/realsense_gazebo_plugin -- -j16 -l16
+[1.026s] Invoking command in '/home/serch/xarm_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/realsense_gazebo_plugin
+[1.034s] -- Install configuration: ""
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.so
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/include/
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/include//realsense_gazebo_plugin
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/include//realsense_gazebo_plugin/RealSensePlugin.h
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/include//realsense_gazebo_plugin/gazebo_ros_realsense.h
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/environment/library_path.sh
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/environment/library_path.dsv
+[1.034s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/ament_index/resource_index/package_run_dependencies/realsense_gazebo_plugin
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/ament_index/resource_index/parent_prefix_path/realsense_gazebo_plugin
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/environment/ament_prefix_path.sh
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/environment/ament_prefix_path.dsv
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/environment/path.sh
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/environment/path.dsv
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/local_setup.bash
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/local_setup.sh
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/local_setup.zsh
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/local_setup.dsv
+[1.035s] -- Installing: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/package.dsv
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/ament_index/resource_index/packages/realsense_gazebo_plugin
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/ament_cmake_export_libraries-extras.cmake
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake
+[1.035s] -- Up-to-date: /home/serch/xarm_ws/install/realsense_gazebo_plugin/share/realsense_gazebo_plugin/package.xml
+[1.059s] Invoked command in '/home/serch/xarm_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/serch/xarm_ws/install/vision_xarm:/home/serch/xarm_ws/install/uf_ros_lib:/home/serch/xarm_ws/install/pose_estimator:/home/serch/xarm_ws/install/image_converter:/home/serch/ros2_ws/install/robot_controller_pkg:/home/serch/ros2_ws/install/Coppelia_RC:/opt/ros/humble /usr/bin/cmake --install /home/serch/xarm_ws/build/realsense_gazebo_plugin
