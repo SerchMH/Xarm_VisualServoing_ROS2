@@ -1,4 +1,0 @@
-source;share/xarm_msgs/local_setup.bash
-source;share/xarm_msgs/local_setup.dsv
-source;share/xarm_msgs/local_setup.sh
-source;share/xarm_msgs/local_setup.zsh
